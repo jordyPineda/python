@@ -50,16 +50,16 @@ funciones.
 
 ## Recursividad
 
-1) [Ejercicio 76](https://github.com/jordyPineda/python/blob/master/python/ejercicio_70.py):Escriba un programa que calcule el factorial de un numero usando recursividad.
+1) [Ejercicio 76](https://github.com/jordyPineda/python/blob/master/python/ejercicio_76.py):Escriba un programa que calcule el factorial de un numero usando recursividad.
 
-2) [E jericio 79](https://github.com/jordyPineda/python/blob/master/python/ejercicio_70.py): Escribir una función recursiva que halle la suma de los primeros "n" números naturales.
+2) [E jericio 79](https://github.com/jordyPineda/python/blob/master/python/ejercicio_79.py): Escribir una función recursiva que halle la suma de los primeros "n" números naturales.
 
 ## Módulos
 
-1)[Ejercicio 81](https://github.com/jordyPineda/python/blob/master/python/ejercicio_81.py)[Modulo](https://github.com/jordyPineda/python/blob/master/python/modulo_81.py): Crear un módulo de funciones aritméticas que realicen las operaciones de suma, resta,
+1)[Ejercicio 81](https://github.com/jordyPineda/python/blob/master/python/ejercicio_81.py)-[Modulo](https://github.com/jordyPineda/python/blob/master/python/modulo_81.py): Crear un módulo de funciones aritméticas que realicen las operaciones de suma, resta,
 multiplicación, división y potencia de enteros, escribir un programa que importe este módulo y use estas funciones para operar con números capturados desde el teclado.
 
-2)[Ejercicio 83](https://github.com/jordyPineda/python/blob/master/python/ejercicio_83.py)[Modulo](https://github.com/jordyPineda/python/blob/master/python/modulo_83.py):Crear un módulo que maneje funciones para operar en sistema binario, las operaciones que
+2)[Ejercicio 83](https://github.com/jordyPineda/python/blob/master/python/ejercicio_83.py)-[Modulo](https://github.com/jordyPineda/python/blob/master/python/modulo_83.py):Crear un módulo que maneje funciones para operar en sistema binario, las operaciones que
 se deben implementar son suma, resta, multiplicación y división.
 
 ## Archivos
